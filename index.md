@@ -50,17 +50,20 @@ if __name__ == '__main__':
 <div align="center">
     <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=339933&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/-Express-3178C6?style=for-the-badge&logo=node.js&logoColor=3178C6&labelColor=282828">&nbsp;
-    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=282828">&nbsp;
-    <img src="https://img.shields.io/badge/-MySQL-046d8a?style=for-the-badge&logo=mysql&logoColor=046d8a&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=6DB33F&labelColor=282828">&nbsp;
+    <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=6DB33F&labelColor=282828">
     <p></p>
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=282828">&nbsp;
+    <img src="https://img.shields.io/badge/-MySQL-046d8a?style=for-the-badge&logo=mysql&logoColor=046d8a&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/-Git-f05032?style=for-the-badge&logo=git&%20studio&logoColor=f05032&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/-Android%20studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=3DDC84&labelColor=282828">&nbsp;
-    <img src="https://img.shields.io/badge/-SQLite-00577d?style=for-the-badge&logo=sqlite&%20studio&logoColor=00577d&labelColor=282828">
     <p></p>
+     <img src="https://img.shields.io/badge/-SQLite-00577d?style=for-the-badge&logo=sqlite&%20studio&logoColor=00577d&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/-Angular-a6120d?style=for-the-badge&logo=angular&logoColor=a6120d&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/-TailWind%20CSS-3178C6?style=for-the-badge&logo=tailwindcss&logoColor=3178C6&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=7952B3&labelColor=282828">
     <p></p>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=282828">
 </div>
 <br>
 <div align="center">
