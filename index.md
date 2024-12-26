@@ -33,7 +33,7 @@
 class ERMtn():
     
     def __init__(self):
-        self.name = "Eloy Rodríguez M."
+        self.name = "Eloy"
         self.username = "ERMtn"
         self.location = "Spain"
         self.reallyLoves = 'Hexagons'
