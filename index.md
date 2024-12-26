@@ -1,10 +1,7 @@
 <h1>
     Eloy R. M.
     <span>
-        <img src="https://img.shields.io/badge/Junior-Developer-lightgrey?style=for-the-badge"> &nbsp;
-        <a href="https://www.linkedin.com/in/eloy-rodr%C3%ADguez-mart%C3%ADn-838509189/">
-            <img src="https://img.shields.io/badge/-Linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=282828">
-        </a>
+        <img src="https://img.shields.io/badge/Junior-Developer-lightgrey?style=for-the-badge">
     </span>
 </h1>
 
